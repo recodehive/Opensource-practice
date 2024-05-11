@@ -179,10 +179,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) | 
 
 - ### **A**
+  - [Aman Singh](https://github.com/amanshh)
   - [Aabhirup Paul](https://github.com/paul-abhirup)
   - [Aniket Singh](https://github.com/ALIVE435)
+  - [Afifa Sadiq](https://github.com/AfifaSadiq)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
- -  [Anushree mehta](https://github.com/anushreemehta6)
+  - [Anushree mehta](https://github.com/anushreemehta6)
 | [`Back To Top`](#contents) |
 
 - ### **B**
@@ -198,6 +200,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **E**
+- [Exynos](https://github.com/GSS0C24)
   - 
 | [`Back To Top`](#contents) |
 
@@ -206,7 +209,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **G**
+
+  -   - [GSOC Website](https://github.com/GSSOC'24)
+
   - [Gssoc](https://github.com/GSS0C24)
+
 | [`Back To Top`](#contents) |
 
 - ### **H**
@@ -223,7 +230,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **K**
-  - 
+  - [Kusum Desai](https://github.com/kusumdesai)
 | [`Back To Top`](#contents) |
 
 - ### **L**
