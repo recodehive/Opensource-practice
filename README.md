@@ -99,7 +99,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
   `- [Full Name](https://github.com/your-username)`
 
 **5. Stage your changes:**
-[Amulya](https://github.com/22wh1a05a0)`
+
 ```bash
   git add README.md
 ```
@@ -308,7 +308,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **T**
-  - 
+  -   [Thanvi Shreya](https://github.com/thanvishreya123)`
+
 | [`Back To Top`](#contents) |
 
 - ### **U**
