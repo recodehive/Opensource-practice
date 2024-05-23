@@ -205,7 +205,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **C**
-  - - [Chakrika sai D](https://github.com/CHAKRIKA-SAI-D)
+ - [Chakrika sai D](https://github.com/CHAKRIKA-SAI-D)
 | [`Back To Top`](#contents) |
 
 - ### **D**
@@ -318,6 +318,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **V**
   - [VARSHINI](https://github.com/Varshini0703)
+  - 
 | [`Back To Top`](#contents) |
 
 - ### **W**
@@ -335,6 +336,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **Z**
   - 
 | [`Back To Top`](#contents) |
+
 ## Our Pledge
 
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
