@@ -97,7 +97,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
   `- [Full Name](https://github.com/your-username)`
 
 **5. Stage your changes:**
-
+  `- [Thanvi Shreya](https://github.com/thanvishreya123)`
 ```bash
   git add README.md
 ```
