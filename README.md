@@ -244,6 +244,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **N**
   - [Nihar koche ](https://github.com/Niharkoche)
+  - Nikitha Pagadala
 | [`Back To Top`](#contents) |
 
 - ### **O**
