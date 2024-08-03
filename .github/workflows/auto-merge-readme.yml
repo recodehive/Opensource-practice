@@ -17,16 +17,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Check if PR only modifies README.md
         id: check_files
         run: |
-          files_changed=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+          base_sha="${{ github.event.pull_request.base.sha }}"
+          head_sha="${{ github.event.pull_request.head.sha }}"
+          files_changed=$(git diff --name-only $base_sha $head_sha)
           if [ "$files_changed" == "README.md" ]; then
-            echo "::set-output name=only_readme::true"
+            echo "only_readme=true" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=only_readme::false"
+            echo "only_readme=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Auto-merge PR
