@@ -6,15 +6,14 @@ on:
     paths:
       - 'README.md'
 
-permissions:
-  contents: write
-  pull-requests: write
-  issues: write
-  actions: write
-
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
+    permissions:
+     contents: write
+     pull-requests: write
+     issues: write
+     actions: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
