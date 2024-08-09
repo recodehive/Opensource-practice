@@ -341,11 +341,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **X**
   - 
-| [`Back To Top`](#contents) |
+| [`Back To](#contents) |
 
 - ### **Y**
   - 
-| [`Back To Top`](#contents) |
+| [Yamini Thirumani](https://github.com/yaminithirumani) |
 
 - ### **Z**
   - 
