@@ -5,13 +5,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> 
  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<a href="https://github.com/recodehive/awesome-github-profiles/stargazers"><img src="https://img.shields.io/github/stars/recodehive/awesome-github-profiles" alt="Stars Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/network/members"><img src="https://img.shields.io/github/forks/recodehive/awesome-github-profiles" alt="Forks Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/awesome-github-profiles" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/issues"><img src="https://img.shields.io/github/issues/recodehive/awesome-github-profiles" alt="Issues Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/awesome-github-profiles?color=2b9348"></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/recodehive/awesome-github-profiles?color=2b9348" alt="License Badge"/></a>
-[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://github.com/recodehive/Opensource-practice/stargazers"><img src="https://img.shields.io/github/stars/recodehive/Opensource-practice" alt="Stars Badge"/></a>
+<a href="https://github.com/recodehive/Opensource-practice/network/members"><img src="https://img.shields.io/github/forks/recodehive/Opensource-practice" alt="Forks Badge"/></a>
+<a href="https://github.com/recodehive/Opensource-practice/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/recodehive/Opensource-practice/issues"><img src="https://img.shields.io/github/issues/recodehive/Opensource-practice" alt="Issues Badge"/></a>
+<a href="https://github.com/recodehive/Opensource-practice/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/Opensource-practice?color=2b9348"></a>
+<a href="https://github.com/recodehive/Opensource-practice/blob/master/LICENSE"><img src="https://img.shields.io/github/license/recodehive/Opensource-practice?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=Opensource-practice&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
