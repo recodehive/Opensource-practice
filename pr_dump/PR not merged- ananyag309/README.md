@@ -1,0 +1,6 @@
+- Virtuo Learn (https://github.com/JAYESHBATRA/Virtuo-Learn/pull/414) Implemented Dark Mode all pages of website
+- Packabunchas (https://github.com/ChromeGaming/PACKABUNCHAS/pull/94) Added feedback form
+- XceeDesigns (https://github.com/XceeDesigns/Website/pull/233) Added js code to subscribe form
+- 30-Days-of-CPP (https://github.com/subhadipbhowmik/30-Days-Of-CPP/pull/522) Added day 08 content about string in cpp
+- 30-Days-of-CPP (https://github.com/subhadipbhowmik/30-Days-Of-CPP/pull/523) added day 09 content about array in cpp
+- Webmasterlog (https://github.com/Avdhesh-Varshney/WebMasterLog/pull/759) movie app using vanilla js
