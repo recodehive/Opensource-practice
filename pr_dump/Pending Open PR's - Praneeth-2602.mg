@@ -1,4 +1,4 @@
-## Below is the list of Open PR that are not merged hope I'll get points for them 😌
+## Below is the list of Merged PR that are merged hope I'll get points for them 😌
 
 https://github.com/Rakesh9100/Beautiify/pull/1353
 https://github.com/Rakesh9100/Beautiify/pull/1354
