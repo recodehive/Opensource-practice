@@ -5,7 +5,7 @@
  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <a href="https://github.com/recodehive/Opensource-practice/stargazers"><img src="https://img.shields.io/github/stars/recodehive/Opensource-practice" alt="Stars Badge"/></a>
-<a href="https://github.com/recodehive/Opensource-practice/network/members"><img src="https://img.shields.io/github/forks/recodehive/Opensource-practice" alt="Forks Badge"/></a>
+<a href="https://github.com/recodehive/Opensource-practice/network/members"><img src="https://img.shields.io/github/forks/recodehive/Opensource-practice" alt="Forks Badge"/></a> 
 <a href="https://github.com/recodehive/Opensource-practice/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/recodehive/Opensource-practice/issues"><img src="https://img.shields.io/github/issues/recodehive/Opensource-practice" alt="Issues Badge"/></a>
 <a href="https://github.com/recodehive/Opensource-practice/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/Opensource-practice?color=2b9348"></a>
