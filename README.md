@@ -15,7 +15,7 @@
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+Repository for you to raise a Pull Request to **practice** open-source ! 🎉
 
 Learn GithHub from Scratch here: https://recodehive.com/github-tutorials/
 
