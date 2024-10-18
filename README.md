@@ -307,6 +307,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Practclg](https://github.com/Practclg)
     - [PraveenTVNS](https://github.com/PraveenThota3166)
     - [P Sreyanshu Anupam](https://github.com/psa21git)
+    - [Prayag Thakur](https://github.com/PrAyAg9)
 
 | [`Back To Top`](#contents) |
 
