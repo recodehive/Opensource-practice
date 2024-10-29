@@ -1,0 +1,25 @@
+name: Duplicate Issue Detection
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  detect-duplicate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Run Duplicate Issue Checker
+      uses: ahmadnassri/action-similar-issue@v1
+      id: duplicate-check
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        min-confidence: 0.8  # Confidence level for similarity (80%)
+
+    - name: Handle Duplicate Issues
+      if: steps.duplicate-check.outputs.similar == 'true'
+      run: |
+        gh issue close ${{ github.event.issue.number }} -c "Duplicate issue detected. Please refer to #${{ steps.duplicate-check.outputs.duplicate_issue_number }}."
