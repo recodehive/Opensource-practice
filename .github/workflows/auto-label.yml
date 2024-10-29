@@ -1,0 +1,22 @@
+name: Auto-label Issues and Pull Requests
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  add-labels:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Add Labels to Issue or Pull Request
+      uses: actions-ecosystem/action-add-labels@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        labels: "gssoc-ext, hacktoberfest-accepted"
+        issue_number: ${{ github.event.issue.number || github.event.pull_request.number }}
