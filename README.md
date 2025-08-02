@@ -1,4 +1,4 @@
-<h1 align="center">Open-source-practice Pull Requests</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/23eeba5b-a89e-4c0e-8cb9-4791511be57f" /><h1 align="center">Open-source-practice Pull Requests</h1>
 
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> 
@@ -339,6 +339,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
     - [Shirshendu R Tripathi](https://github.com/ShirshenduR)
     -[Sandeep Gupta](https://github.com/Sandigupta)(let's do it ✌️)
     - [Saraswati Chandra](https://github.com/saras-69)
+    - [Sriraam Vairavan](https://github.com/sriraam-vr)
    
          
 | [`Back To Top`](#contents) |
