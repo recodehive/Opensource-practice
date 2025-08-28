@@ -21,7 +21,7 @@ Learn GithHub from Scratch here: https://recodehive.com/github-tutorials/
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
-### Option 1. Complete this process in GitHub (in your browser)
+### Option 1. Complete this process in GitHub (in your browser) add 
 
 ```mermaid
 flowchart LR
