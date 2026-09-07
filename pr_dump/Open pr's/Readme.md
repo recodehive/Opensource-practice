@@ -8,5 +8,5 @@
 5. WebMasterLog(https://github.com/Avdhesh-Varshney/WebMasterLog/pull/767) added typescript rental website  #767
 6. (https://github.com/Avdhesh-Varshney/WebMasterLog/pull/770) added vue-js e-commerce shoe website #770
 7. CalcDiverse- (https://github.com/Rakesh9100/CalcDiverse/pull/1837) added hover effect on pagination buttons #1837
-
+8. awesome codebases- (https://github.com/alan2207/awesome-codebases)
 
