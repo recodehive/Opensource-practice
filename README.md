@@ -381,6 +381,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **Z**
 - [Zakariyah Abdulaleem](https://github.com/zakkycrypt01)
+- [Ziad (Kix)](https://github.com/ziadkix) - Discord bot developer (discord.js, Node.js), building cybersecurity skills
 
 | [`Back To Top`](#contents) |
 
