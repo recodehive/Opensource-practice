@@ -21,7 +21,7 @@ Learn GithHub from Scratch here: https://recodehive.com/github-tutorials/
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
-### Option 1. Complete this process in GitHub (in your browser) add 
+### Option 1. Complete this process in GitHub (in your browser)
 
 ```mermaid
 flowchart LR
@@ -30,11 +30,12 @@ flowchart LR
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
 ```
-dd
+
 **1. Fork the project:**
 
 - Click the gray <kbd>Fork</kbd> button at the top right of the previous page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/a50b0ed1-84b6-4254-bd7c-d8dbb2839466)
+![image](/pr_dump/assest/Fork1.png)
+![image](/pr_dump/assest/Fork2.png)
 
 *2. Create a New Branch:*
 add 
